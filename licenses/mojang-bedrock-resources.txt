@@ -1,0 +1,15 @@
+(c) Mojang AB. All rights reserved.
+
+By downloading the files in this repository, you agree to the [Minecraft End User License Agreement](https://www.minecraft.net/en-us/eula) and that these files are subject to its terms.
+
+The hd2 saved-entity models and textures use the Minecraft Bedrock 1.18.0
+vanilla resource pack, archived at:
+https://github.com/ZtechNetwork/MCBVanillaResourcePack/tree/681c5b1d804c84879775e1341c5a9eec3e0640f4
+The original world's level.dat records lastOpenedWithVersion 1.18.2.3.0 and
+MinimumCompatibleClientVersion 1.18.0.0.0.
+
+Additional Bedrock reference assets and model definitions are pinned to:
+https://github.com/Mojang/bedrock-samples/tree/46ba6ea985fb5a92d79a9419198f10dda14c199d
+
+Static poses retain archived conditions and classic 1.18 baby proportions.
+Animation phases and motion history absent from the save are not reconstructed.
